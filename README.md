@@ -1,20 +1,15 @@
-<<<<<<< HEAD
 channel: https://t.me/spareontopss
 
 #proxy only support https & socks5
 
 get logindata
-1
+
 ![1 Step](./useless/1.png)
-2
 ![2 Step](./useless/2.png)
-3
 ![3 Step](./useless/3.png)
-4
 ![4 Step](./useless/4.png)
 Copy To Config.json
 with this format [{acc1},{acc2},{acc3}]
-![5 Step](./useless/5.png)
 
 proxy usage
 add proxy to config.json
