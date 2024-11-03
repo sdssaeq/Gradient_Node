@@ -1,3 +1,6 @@
+<<<<<<< HEAD
+channel: https://t.me/spareontopss
+
 #proxy only support https & socks5
 
 get logindata
